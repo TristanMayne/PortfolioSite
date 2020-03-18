@@ -1,0 +1,47 @@
+body{
+    background-color: #9d5df5;
+    font-size: .6rem;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+html, body, pre, code, kbd, samp, div {
+    font-family: "Press Start 2P";
+}
+#topHr{
+    border: 3px solid black;
+}
+#title{
+    padding-top: 5px;
+    font-size: 2.0rem;
+    text-align: center;
+    padding-left: 0%;
+}
+hr{
+    border: 2px solid black; 
+}
+#experience{
+    float: left;
+    text-align: left;
+}
+#education{
+    height: 100px;
+}
+}
+.sectionLabel{
+    font-size: .8rem;
+}
+.date{
+    width: 33.33%;
+    float: left;
+    text-align: right;
+}
+.left{
+    width: 33.33%;
+    float: left;
+    text-align: left;
+}
+.middle{
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
